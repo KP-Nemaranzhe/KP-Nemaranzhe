@@ -76,5 +76,3 @@ I’m an aspiring software developer with a strong foundation in Python, Java, C
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KP-Nemaranzhe&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 </p>
-
-![snake gif]((https://github.com/KP-Nemaranzhe/KP-Nemaranzhe/output/github-contribution-grid-snake.svg))
