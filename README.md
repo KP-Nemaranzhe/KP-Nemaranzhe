@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Progress Nemaranzhe
 ===========================================================================================================================================
 
-Aspiring Software Developer
+Software Developer
 -------------
 
 I’m an aspiring software developer with a strong foundation in Python, Java, C#, HTML and CSS. Passionate about technology and continuous learning, I’m eager to tackle new challenges and contribute to innovative projects.
