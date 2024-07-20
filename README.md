@@ -49,9 +49,7 @@ I’m an aspiring software developer with a strong foundation in Python, Java, C
   </a>
 </p>
 
-### Badges
-
-**My GitHub Stats**
+### My GitHub Stats
 
 <p align="left">
   <a href="http://www.github.com/KP-Nemaranzhe">
