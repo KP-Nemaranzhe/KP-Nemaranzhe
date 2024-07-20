@@ -24,7 +24,7 @@ Here are a few projects I’m currently working on:
 
 ## 🐍 Contribution Snake
 
-![Contribution Snake]([https://github-readme-stats.vercel.app/api?username=KP-Nemaranzhe&show_icons=true&hide_border=true&count_private=true&theme=radical&custom_title=Contribution%20Snake](https://github-readme-stats.vercel.app/api/contribs/github?username=KP-Nemaranzhe&count_private=true&theme=radical))
+![Contribution Snake]([(https://github-readme-stats.vercel.app/api/contribs/github?username=KP-Nemaranzhe&count_private=true&theme=radical))]
 
 
 ## 📫 Get in Touch
