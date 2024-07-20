@@ -8,7 +8,7 @@ I’m an aspiring software developer with a strong foundation in Python, Java, C
 
 *   🌍  I'm based in Potchefstroom, South Africa
 *   ✉️  You can contact me at [pronemaranzhe@gmail.com](mailto:pronemaranzhe@gmail.com)
-*   🧠  I'm learning React
+*   🧠  I'm currectly learning React and Django
 *   🤝  I'm open to collaborating on new projects
   
   ### Skills 
