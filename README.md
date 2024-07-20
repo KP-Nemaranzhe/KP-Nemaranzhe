@@ -77,4 +77,4 @@ I’m an aspiring software developer with a strong foundation in Python, Java, C
   </a>
 </p>
 
-![snake gif]((https://github.com/KP-Nemaranzhe/KP-Nemaranzhe.git))
+![snake gif]((https://github.com/KP-Nemaranzhe/KP-Nemaranzhe.git/blob/output/github-contribution-grid-snake-dark.svg))
