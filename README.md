@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I’m an aspiring software developer with a strong foundation in Python, Java, C#, HTML, and CSS. Passionate about technology and continuous learning, I’m eager to tackle new challenges and contribute to innovative projects.
+I’m an aspiring software developer with a strong foundation in Python, Java, C#, HTML and CSS. Passionate about technology and continuous learning, I’m eager to tackle new challenges and contribute to innovative projects.
 
 *   🌍  I'm based in Potchefstroom, South Africa
 *   ✉️  You can contact me at [pronemaranzhe@gmail.com](mailto:pronemaranzhe@gmail.com)
 *   🧠  I'm learning React
-*   🤝  I'm open to collaborating on projects
+*   🤝  I'm open to collaborating on new projects
   
   ### Skills 
 <p align="left">
