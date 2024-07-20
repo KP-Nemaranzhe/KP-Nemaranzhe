@@ -37,17 +37,15 @@ Here are a few projects I’m currently working on:
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs)
 
+## 🐍 Contribution Snake
+
+![Contribution Snake](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&theme=radical&custom_title=Contribution%20Snake)
+
 ## 📫 Get in Touch
 
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
 
-## 🎨 CSS Animation Example
-
-<!-- HTML for CSS Animation -->
-<div style="width: 100px; height: 100px; background-color: #3498db; animation: spin 2s linear infinite;">
-  <p style="text-align: center; color: white; font-size: 20px; line-height: 100px;">Spin</p>
-</div>
 
 <style>
 @keyframes spin {
