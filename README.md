@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Progress Nemaranzhe! 👋
 
 Welcome to my GitHub profile. I'm a passionate upcoming software developer with a love for creating innovative solutions. Check out some of my projects and feel free to reach out if you want to collaborate!
 
