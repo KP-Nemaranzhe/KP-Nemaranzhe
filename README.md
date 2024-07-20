@@ -6,7 +6,6 @@ Welcome to my GitHub profile. I'm a passionate upcoming software developer with 
 
 - **👨‍💻 Current Focus:** Final-year IT student and software developer
 - **💻 Languages:**
-
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -32,8 +31,13 @@ Here are a few projects I’m currently working on:
 
 ## 🎨 Animations & Visuals
 
-- **Coding Animation:** ![Coding](https://media.giphy.com/media/your-coding-animation-link/giphy.gif)
-- **Work Environment:** ![Workspace](https://media.giphy.com/media/your-workspace-animation-link/giphy.gif)
+### Responsive Animation Example
+
+<svg width="100%" height="auto" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red">
+    <animate attributeName="r" from="10" to="40" dur="1s" begin="0s" repeatCount="indefinite" />
+  </circle>
+</svg>
 
 ## 📝 Blog Posts
 
@@ -52,5 +56,6 @@ Here are a few projects I’m currently working on:
 
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
+
 
 
