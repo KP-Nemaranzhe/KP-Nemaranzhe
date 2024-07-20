@@ -17,34 +17,19 @@ Here are a few projects I’m currently working on:
 - **Description:** Brief description of the project.
 - **Tech Stack:** Python, Flask, PostgreSQL
 - **Demo:** ![Demo](https://media.giphy.com/media/your-project-demo-link/giphy.gif)
-
-### Project 2: [Project Name]
-- **Description:** Brief description of the project.
-- **Tech Stack:** JavaScript, React, Node.js
-- **Demo:** ![Demo](https://media.giphy.com/media/your-project-demo-link/giphy.gif)
-
-## 🎨 Animations & Visuals
-
-- **Coding Animation:** ![Coding](https://media.giphy.com/media/your-coding-animation-link/giphy.gif)
-- **Work Environment:** ![Workspace](https://media.giphy.com/media/your-workspace-animation-link/giphy.gif)
-
-## 📝 Blog Posts
-
-- [How I Built My Latest Project](https://your-blog-link.com)
-- [Learning Python: Tips and Tricks](https://your-blog-link.com)
-
+- 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KP-Nemaranzhe&show_icons=true&count_private=true&hide=prs)
 
 ## 🐍 Contribution Snake
 
-![Contribution Snake](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&theme=radical&custom_title=Contribution%20Snake)
+![Contribution Snake](https://github-readme-stats.vercel.app/api?username=KP-Nemaranzhe&show_icons=true&hide_border=true&count_private=true&theme=radical&custom_title=Contribution%20Snake)
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/progress-nemaranzhe)
+- **Email:** [your.email@example.com](pronemaranzhe@gmail.com)
 
 
 <style>
