@@ -90,4 +90,47 @@ I’m an aspiring software developer with a strong foundation in Python, Java, C
 </p>
 
 ## another version
+### 🚀 My GitHub Stats  
+
+<p align="center">
+  <a href="https://github.com/KP-Nemaranzhe">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KP-Nemaranzhe&show_icons=true&count_private=true&title_color=00FFFF&text_color=FFFFFF&icon_color=FF5733&bg_color=000000&hide_border=true&border_radius=10&theme=tokyonight&custom_title=KP's GitHub Stats" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/KP-Nemaranzhe">
+    <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=KP-Nemaranzhe&stroke=FFFFFF&background=000000&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true&border_radius=10&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+### 📊 Language Breakdown  
+
+<p align="center">
+  <a href="https://profile-summary-for-github.com/user/KP-Nemaranzhe">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KP-Nemaranzhe&theme=radical&animation=fade-in" alt="Most Used Languages" />
+  </a>
+  <a href="https://profile-summary-for-github.com/user/KP-Nemaranzhe">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KP-Nemaranzhe&theme=radical&animation=fade-in" alt="Most Committed Languages" />
+  </a>
+</p>
+
+---
+
+### 📈 Contribution Graph  
+
+<p align="center">
+  <a href="https://github.com/KP-Nemaranzhe">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KP-Nemaranzhe&bg_color=000000&color=FFFFFF&line=00FFFF&point=FF5733&area=true&hide_border=true&theme=tokyonight&animation=wave" alt="GitHub Contribution Graph" />
+  </a>
+</p>
+
+---
+
+### 🚀 Top Languages  
+
+<p align="center">
+  <a href="https://github.com/KP-Nemaranzhe">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KP-Nemaranzhe&langs_count=10&title_color=00FFFF&text_color=FFFFFF&icon_color=FF5733&bg_color=000000&hide_border=true&border_radius=10&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
 
