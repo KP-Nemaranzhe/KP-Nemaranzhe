@@ -4,9 +4,9 @@
 
 I’m an aspiring software developer with a strong foundation in Python, Java, C#, HTML, and CSS. Passionate about technology and continuous learning, I’m eager to tackle new challenges and contribute to innovative projects.
 
-- 🌍 Based in **Potchefstroom, South Africa**  
+- 🌍 Based in **Brits, North West, South Africa**  
 - ✉️ Contact me at [pronemaranzhe@gmail.com](mailto:pronemaranzhe@gmail.com)  
-- 🧠 Currently learning **React and Django**  
+- 🧠 Currently learning **React and Ruby on Rails**  
 - 🤝 Open to collaborating on new projects  
 
 ---
@@ -27,13 +27,15 @@ I’m an aspiring software developer with a strong foundation in Python, Java, C
 ## 🌐 Socials
 <p align="left">
   <a href="https://discord.com/users/pro_nemar" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="34" height="34" alt="Discord" style="transition: transform 0.3s ease;"/>
   </a>
+  
   <a href="https://www.github.com/KP-Nemaranzhe" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="34" height="34" alt="GitHub" style="transition: transform 0.3s ease;"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/progress-nemaranzhe" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="34" height="34" alt="LinkedIn" style="transition: transform 0.3s ease;"/>
   </a>
 </p>
 
@@ -48,6 +50,8 @@ I’m an aspiring software developer with a strong foundation in Python, Java, C
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KP-Nemaranzhe&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KP-Nemaranzhe&theme=tokyonight&border_radius=4)](https://git.io/streak-stats)
 
 ---
 
