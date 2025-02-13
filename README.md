@@ -60,7 +60,7 @@ I’m an aspiring software developer with a strong foundation in Python, Java, C
 
 ---
 
-## 🖥️ Languages I've Used
+## 🖥️ Languages 
 <p align="center">
   <a href="https://github.com/KP-Nemaranzhe">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KP-Nemaranzhe&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" />
