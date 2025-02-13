@@ -124,8 +124,4 @@ I’m an aspiring software developer with a strong foundation in Python, Java, C
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KP-Nemaranzhe&theme=github_dark" alt="Most Used Languages" />
   </a>
-  
-  <a href="https://wakatime.com">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=KP-Nemaranzhe&layout=compact&bg_color=1c1917&text_color=ffffff&title_color=0891b2&hide_border=true" alt="WakaTime Stats" />
-  </a>
 </p>
