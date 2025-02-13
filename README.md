@@ -26,7 +26,7 @@ I’m an aspiring software developer with a strong foundation in Python, Java, C
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://discord.com/users/pro_nemar" target="   " style="margin-right: 15px;">
+  <a href="https://discord.com/users/pro_nemar"  style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" style="transition: transform 0.3s ease;"/>
   </a>
   <a href="https://www.linkedin.com/in/progress-nemaranzhe" target="   " style="margin-right: 15px;">
