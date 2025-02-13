@@ -26,16 +26,14 @@ I’m an aspiring software developer with a strong foundation in Python, Java, C
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://discord.com/users/pro_nemar" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="34" height="34" alt="Discord" style="transition: transform 0.3s ease;"/>
+  <a href="https://discord.com/users/pro_nemar" target="_blank" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" style="transition: transform 0.3s ease;"/>
   </a>
-  
-  <a href="https://www.github.com/KP-Nemaranzhe" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="34" height="34" alt="GitHub" style="transition: transform 0.3s ease;"/>
+  <a href="https://www.github.com/KP-Nemaranzhe" target="_blank" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" style="transition: transform 0.3s ease;"/>
   </a>
-  
   <a href="https://www.linkedin.com/in/progress-nemaranzhe" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="34" height="34" alt="LinkedIn" style="transition: transform 0.3s ease;"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" style="transition: transform 0.3s ease;"/>
   </a>
 </p>
 
