@@ -89,3 +89,43 @@ I’m an aspiring software developer with a strong foundation in Python, Java, C
   </a>
 </p>
 
+## another
+### My GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/KP-Nemaranzhe">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KP-Nemaranzhe&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true" alt="KP-Nemaranzhe's GitHub stats" />
+  </a>
+  
+  <a href="https://github.com/KP-Nemaranzhe">
+    <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=KP-Nemaranzhe&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+### **GitHub Activity**
+<p align="left">
+  <a href="https://github.com/KP-Nemaranzhe">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KP-Nemaranzhe&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </a>
+</p>
+
+### **Languages I've Used**
+<p align="left">
+  <a href="https://github.com/KP-Nemaranzhe">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KP-Nemaranzhe&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KP-Nemaranzhe&theme=github_dark" alt="Languages Per Repo" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KP-Nemaranzhe&theme=github_dark" alt="Most Used Languages" />
+  </a>
+  
+  <a href="https://wakatime.com">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=KP-Nemaranzhe&layout=compact&bg_color=1c1917&text_color=ffffff&title_color=0891b2&hide_border=true" alt="WakaTime Stats" />
+  </a>
+</p>
