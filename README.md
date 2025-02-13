@@ -75,3 +75,17 @@ I’m an aspiring software developer with a strong foundation in Python, Java, C
   </a>
 </p>
 
+## new
+
+<p align="left">
+  <a href="https://profile-summary-for-github.com/user/KP-Nemaranzhe">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KP-Nemaranzhe&theme=github_dark" alt="Most Used Languages" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://profile-summary-for-github.com/user/KP-Nemaranzhe">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KP-Nemaranzhe&theme=github_dark" alt="Most Committed Languages" />
+  </a>
+</p>
+
