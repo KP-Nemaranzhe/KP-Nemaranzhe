@@ -43,10 +43,10 @@ I’m an aspiring software developer with a strong foundation in Python, Java, C
 <p align="center">
   <a href="https://github.com/KP-Nemaranzhe">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KP-Nemaranzhe&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
-  </a>
+<!--   </a>
     <a href="https://github.com/KP-Nemaranzhe">
     <img width="48%" src="https://streak-stats.demolab.com?user=KP-Nemaranzhe&theme=tokyonight&border_radius=4" alt="GitHub Streak" />
-  </a>
+  </a> -->
 </p>
 
 ---
