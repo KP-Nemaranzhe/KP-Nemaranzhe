@@ -4,7 +4,7 @@
 
 I’m an aspiring software developer with a strong foundation in Python, Java, C#, HTML, and CSS. Passionate about technology and continuous learning, I’m eager to tackle new challenges and contribute to innovative projects.
 
-- 🌍 Based in **Brits, North West, South Africa**  
+- 🌍 Based in **Johannesburg, South Africa**  
 - ✉️ Contact me at [pronemaranzhe@gmail.com](mailto:pronemaranzhe@gmail.com)  
 - 🧠 Currently learning **React and Ruby on Rails**  
 - 🤝 Open to collaborating on new projects  
